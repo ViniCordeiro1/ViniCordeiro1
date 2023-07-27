@@ -23,7 +23,7 @@
     <a href="https://wa.me/5519989293380">
       <img width="35px" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" />
     </a>
-    <a href="https://viniciuscordeiro.netlify.app">
+    <a href="https://vinicius-cordeiro.netlify.app/#" >
       <img width="35px" src="https://img.icons8.com/fluency/48/000000/laptop.png" />
     </a>
   </div>
