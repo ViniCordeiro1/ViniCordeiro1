@@ -1,6 +1,6 @@
 # <div>
   <h1>Eai, Me chamo Vinicius Cordeiro</h1>
-  <p>Sou Vinicius Cordeiro, tenho 27 anos e um entusiasta apaixonado por criar interfaces atraentes e funcionais para a web. Tenho experiência em HTML, CSS e JavaScript, e estou animado para aprender e crescer como desenvolvedor frontend. Sou comprometido em escrever código limpo e eficiente, sempre buscando aprimorar minhas habilidades para entregar projetos de alta qualidade.</p>
+  <p>Sou Vinicius Cordeiro, tenho 28 anos e um entusiasta apaixonado por criar interfaces atraentes e funcionais para a web. Tenho experiência em HTML, CSS e JavaScript, e estou animado para aprender e crescer como desenvolvedor frontend. Sou comprometido em escrever código limpo e eficiente, sempre buscando aprimorar minhas habilidades para entregar projetos de alta qualidade.</p>
 </div>
 </br>
 
